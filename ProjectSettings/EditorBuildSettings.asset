@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/InteractiveScene.unity
-    guid: 53feced8bf10ad143a13c8348ee4eacc
+    path: Assets/Scenes/PlaneTrack.unity
+    guid: 4e3c6445199fcc649a3e4b086333b010
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6ee72d15cf39dd748a13eac57397b9af,
       type: 2}
